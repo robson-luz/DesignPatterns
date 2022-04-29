@@ -1,0 +1,3 @@
+﻿using Strategy;
+
+DiscountExecutor.Execute();
